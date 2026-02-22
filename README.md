@@ -78,16 +78,6 @@ philosophy: "Always exploring, always building"
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Aslam-space&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
