@@ -12,7 +12,7 @@
 
 ```yaml
 name: Aslam A
-location: India 🇮🇳
+location: India 
 role: Cloud & DevOps Engineer
 status: Open to opportunities ✅
 linkedin: https://www.linkedin.com/in/aslama77
